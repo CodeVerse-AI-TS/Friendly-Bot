@@ -9,3 +9,6 @@ pystray
 Pillow
 numpy
 soundfile
+faster-whisper
+pyautogui
+wikipedia
